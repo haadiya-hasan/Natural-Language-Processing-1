@@ -1,0 +1,13 @@
+Hello! My name is Alex, and I am learning Natural Language Processing (NLP).
+
+I don't think NLP is difficult. It is a powerful, data-driven technology
+used in Artificial Intelligence. Python3 is easy to learn and widely used.
+
+Last week, I bought 5 books for $100.50 and 3 notebooks for $25.
+You can visit https://www.example.com to learn more about NLP.
+
+For more information, contact me at alex.smith@gmail.com.
+We're exploring word-tokenization, sentence-segmentation, and text-processing.
+
+I've learned that NLP can help computers understand human language.
+It's interesting, isn't it? Let's continue learning!
